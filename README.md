@@ -17,7 +17,6 @@
 
 ![](https://img.shields.io/badge/typescipt-100000?style=for-the-badge&logo=typescript)
 ![](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript)
-![](https://img.shields.io/badge/react-100000?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/mongodb-100000?style=for-the-badge&logo=mongodb)
 ![](https://img.shields.io/badge/postgresql-100000?style=for-the-badge&logo=postgresql)
 </h2>
@@ -41,7 +40,6 @@ and in the VK Mini App<br>
     I decided to quit the project
 </b>
 </h3>
-
 
 <h2 align="left">TypeScript:</h2>
 
@@ -90,6 +88,7 @@ console.log(me.text);
 [![Our VK public](https://img.shields.io/badge/rusanonym_team-0077FF?style=for-the-badge&logo=vk&logoColor=#000000)](https://vk.com/rus_anonym_team)
 </h3>
 <details align="left">
+    <summary><b>Powered</b></summary>
     
 [![](https://img.shields.io/badge/created_by_non--coders_team-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaQAAAGkAQMAAABEgsN2AAAABlBMVEXWkULw8PCgvriaAAAAeUlEQVR42u3asQkAIAwEwGzm/ls4gqWdVpaCiIWE+/4G+ORjXKQFRVEURVEURVEURVEURVEUlUfVOE+hKIqiKIqiKIqiqARqNeNOURRFURRFURRFUV8pv2yKoiiKoiiKoijKlpiiKIqiKIqiKIqi3ip3AIqiKIraqgkDN8gNWH/ofQAAAABJRU5ErkJggg==)](https://github.com/Non-Coders)
 </details>
