@@ -67,7 +67,7 @@ interface IMeOptions {
     language: string[];
 }
 
-const me = new Me({ language: ['JavaScript', 'TypeScript', 'React'] });
+const me = new Me({ language: ['JavaScript', 'TypeScript'] });
 
 console.log(me.text);
 ```
@@ -75,7 +75,7 @@ console.log(me.text);
 
 ```console
     Hello! My name is Nikita (sm1rnovdev), me 19 years, i am from Russia :D
-    I use: JavaScript, TypeScript, React.
+    I use: JavaScript, TypeScript.
 ```
 <h3 align="left"><b>
     You can find me here:<br>
