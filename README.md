@@ -85,6 +85,7 @@ console.log(me.text);
 [![My NPM profile](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm)](https://npmjs.com/~sm1rnovdev)
 [![My Discord profile](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/590167400687599618)
 [![My E-Mail](https://img.shields.io/badge/mail.ru-e5e8e8?style=for-the-badge&logo=mail.ru&logoColor=fc2c38)](mailto:sm1rnovdev@mail.ru)
+[![My E-Mail](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&)](https://t.me/sm1rnovdev)
 [![Our VK public](https://img.shields.io/badge/rusanonym_team-0077FF?style=for-the-badge&logo=vk&logoColor=#000000)](https://vk.com/rus_anonym_team)
 </h3>
 <details align="left">
