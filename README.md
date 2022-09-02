@@ -45,9 +45,9 @@ and in the VK Mini App<br>
 
 ```typescript
 class Me {
-    private _name: string | 'Nikita (sm1rnovdev)';
-    private _age: number | 19;
-    private _county: string | 'Russia';
+    private _name: string = 'Nikita (sm1rnovdev)';
+    private _age: number = 19;
+    private _county: string = 'Russia';
 
     private _language: string[];
 
